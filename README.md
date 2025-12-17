@@ -137,7 +137,3 @@ app.get("/", (req, res) => res.send("Server is up!"));
 ---
 
 Thank you for taking the time to view this repository. Your suggestions to improve functionality or design are very welcome. Feel free to clone and contribute!
-
-### Connect with me:
-- GitHub: [sarthakm1512](https://github.com/sarthakm1512)
-- LinkedIn: [Your Profile Link]
